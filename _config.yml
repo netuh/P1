@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Programação Orientada a Objetos
+title: Programação 1
 
 # Your name to show in the footer
 author: Waldemar Pires Ferreira Neto
@@ -15,7 +15,6 @@ author: Waldemar Pires Ferreira Neto
 
 navbar-links:
   Curso: "curso"
-  Projeto: "projeto"
   Aulas: "aulas"
   Bibliografia: "bibliografia"
 
