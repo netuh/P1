@@ -4,23 +4,15 @@ title: Bibliografia
 subtitle: "Bibliografia Recomendada"
 ---
 
-# Livro 1
+# Bibliografia Básica
+- ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de. **Fundamentos da programação de computadores: algoritmos, pascal, c/c++ e java**. 3o ed. São Paulo: Pearson, 2012.
+- FURGERI, Sérgio. **Java, ensino didático: desenvolvimento e implementação de aplicações**. São Paulo: Érica, 2018.
+- SCHILDT, Herbert. **Java para iniciantes: crie, compile e execute programas java rapidamente**. 6o ed. Porto Alegre: Bookman,2015.
 
-Inicialmente, é apresentada a motivação para a aprender orientação a objeto em detrimento à programação estruturada. O objetivo é fazer com que o aluno compreenda que desenvolver projetos complexos através de programação estruturada torna o desenvolvimento muito difícil. Posteriormente, são abordadas as bases para orientação a objetos e como devem ser usadas.
+# Bibliografia Complementar 
+- DEITEL, Harvey M.; DEITEL, Paul J. **Java: como programar.** 10. ed. São Paulo: Pearson, 2016.
+- FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de Programação: a construção de algoritmos e estruturas de dados**. 3o ed. São Paulo: Pearson Education: Prentice Hall, 2005. 
+- JOYANES AGUILAR, Luis. **Fundamentos de programação: algoritmos, estruturas de dados e objetos**. 3. ed. Porto Alegre: AMGH, 2008.
 
-Assuntos: 
-- Orientação a Objeto
-- Distinção de classe e objeto
-- Herança
-- Visibilidade
-- Polimorfismo
-
-# Livro 2
-
-O foco nessa etapa está no projeto, implementação e análise tratando de problemas cada vez mais complexos. A ideia é não somente entender as estratégias utilizadas, mas também ter uma ideia clara de suas eficiências e classes de complexidade.
-
-Assuntos:
-- Arquitetura de Software
-- Expressões Lambda
-- Bad Smells
-- Padrões de Projeto
+# Outros Livros (Recomendo)
+- SIERRA, Kathy; BATES, Bert. **Use a cabeça!: java**. Alta Books, 2007.

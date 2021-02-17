@@ -11,7 +11,7 @@ A aulas estão todas organizadas por tópico. Os slides e gravações das aulas 
 Assuntos: 
 - [Introdução](https://netuh.github.io/p1/tags/#introducao)
 
-# Segunda Etapa: Algoritmos de Ordenação
+# Segunda Etapa
 
 Assuntos: 
 - Em Breve
