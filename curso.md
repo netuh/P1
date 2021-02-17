@@ -4,25 +4,26 @@ title: Curso
 subtitle: "Descrição do Curso"
 ---
 
-Para atingir os nossos Objetivos de Aprendizagem, o curso é organizado nas 5 etapas a seguir.
+Para atingir os nossos Objetivos de Aprendizagem, o curso é organizado nas duas etapas a seguir.
 
-# Primeira Etapa: Análise de Algoritmos
+# Primeira Etapa: Comandos Básicos
 
-Inicialmente, é apresentada a motivação para a aprender orientação a objeto em detrimento à programação estruturada. O objetivo é fazer com que o aluno compreenda que desenvolver projetos complexos através de programação estruturada torna o desenvolvimento muito difícil. Posteriormente, são abordadas as bases para orientação a objetos e como devem ser usadas.
+Inicialmente, é apresentada a motivação para a aprender programação estruturada. O objetivo é fazer com que o aluno compreenda como desenvolver projetos problemas simples.
 
 Assuntos: 
-- Orientação a Objeto
-- Distinção de classe e objeto
-- Herança
-- Visibilidade
-- Polimorfismo
+- Pensamento Algorítimico
+- Entrada e saída
+- Tipos de Dados
+- Comandos Condicionais
+- Comandos de Repetição
 
-# Segunda Etapa: Algoritmos de Ordenação
+# Segunda Etapa: Comandos Compostos
 
-O foco nessa etapa está no projeto, implementação e análise tratando de problemas cada vez mais complexos. A ideia é não somente entender as estratégias utilizadas, mas também ter uma ideia clara de suas eficiências e classes de complexidade.
+O foco nessa etapa está em aprender como, baseado nos conhecimentos anteriores, podemos trabalhar com problemas cada vez mais complexos .
 
 Assuntos:
-- Arquitetura de Software
-- Expressões Lambda
-- Bad Smells
-- Padrões de Projeto
+- Procedimento e Funções
+- Escopo de Variável
+- Arrays
+- String
+- Recursividade
