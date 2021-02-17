@@ -6,11 +6,13 @@ subtitle: "Avaliação Contuniada"
 
 # Avaliação 
 
-Em geral o UNIKUT deve ser capaz de:
+A avaliação será feita em duas etapas, de acordo com o que foi apresentado na [descrição do curso](https://netuh.github.io/p1/curso/)
 
-- Manter um cadastro de informações dos usuários (perfis, álbuns, etc.)
-- Manter uma série de informações de relacionamentos entre os usuários (agrupamentos em comunidades, redes de amizade, de fãs, listas de paqueras, etc.)
-- Manter o fluxo de mensagens entre os usuários do sistema.
+a nota de cada etapa se dará com a seguinte composição:
+- Entrega dos Exercíios: 10%
+- - Teste 
+- Prova Sincrôna: 30%
+
 
 # Informações Importantes
 
