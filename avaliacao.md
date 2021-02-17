@@ -8,7 +8,7 @@ subtitle: "Avaliação Contuniada"
 
 A avaliação será feita em duas etapas, de acordo com o que foi apresentado na [descrição do curso](https://netuh.github.io/p1/curso/)
 
-a nota de cada etapa se dará com a seguinte composição:
+A nota de cada etapa se dará com a seguinte composição:
 - Entrega dos Exercícios:
     - A cada assunto uma série de exercícios será disponibilizado na plataforma [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/). Todos devem ser respondidos e com a comprovação da sua aceitação.
     - Contribuição para Nota: **10%**
@@ -22,3 +22,13 @@ a nota de cada etapa se dará com a seguinte composição:
         - Entre 20% e 30% de semelhaça de acordo com o MOSS o alunos serão chamados para explicar o código.
         - Um índice maior que 30%, a prova será ***ZERADA*** por ***PLÁGIO***
     - Contribuição para Nota: **50%**
+
+# Datas
+
+- Primeira Etapa:
+    - Avaliação Síncrona: **A Definir**
+    - Avaliação Assíncrona: **A Definir**
+
+- Segunda Etapa:
+    - Avaliação Síncrona: **A Definir**
+    - Avaliação Assíncrona: **A Definir**
